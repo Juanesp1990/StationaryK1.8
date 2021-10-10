@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7/10/2021, 07:24:16 AM
+    Author     : JUANES
+*/
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.celdas_index{
+    width: 150px;
+    font-family: Arial;
+    font-size: 1.2em;
+    color: #000000;
+}
+
+.boton_index{
+    padding: 10px;
+    text-align: center;
+    margin: auto;
+    background-color: #9a9aff;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.boton_index:hover{
+    background-color: #0000ff;
+    color: #ffffff;
+}
